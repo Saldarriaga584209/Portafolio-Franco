@@ -6,3 +6,13 @@ import resetToHome from './helpers/reload_page.js';
 import sendEmail from './helpers/send_form.js';
 
 loader();
+
+resetToHome();
+
+activeMenu();
+
+parallax();
+
+updateDateYear();
+
+sendEmail();
